@@ -4,12 +4,12 @@ Hi 👋 My name is Savan Patel
 Web developer
 -------------
 
-I have been learning to code for 3 years, as a computer engineering student. I have a good knowledge of C and Java, currently learning and implementing PHP web applications.
+I have been learning to code for 3 years, as a computer engineering student. I have a good knowledge of C and Java, currently learning and implementing web applications.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [patelsavan771@gmail.com](mailto:patelsavan771@gmail.com)
-* 🚀  I'm currently working on [Communify](http://communify.000webhostapp.com)
-* 🧠  I'm learning PHP and javascript
+* 🚀  I'm currently working on e-commarce project
+* 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on Interesting projects on web application
 
 <a href="https://www.twitter.com/patelsavan771" target="_blank" rel="noreferrer"><img
